@@ -1,0 +1,63 @@
+{
+    "dlugoscLekcji": 45,
+    "pierwszaLekcja": "08:00",
+    "przerwy": [5, 10, 20, 10, 10, 10, 5, 5, 5, 0], 
+    "plan": {
+      "1": [ 
+        null,
+        "eksploatacja lokalnych sieci komputerowych",
+        "historia",
+        "religia",
+        "wychowanie fizyczne",
+        "informatyka",
+        "polski",
+        "lokalne sieci komputerowe",
+        "urządzenia techniki komputerowej",
+        "administracja systemami operacyjnymi"
+      ],
+      "2": [
+        null,
+        null,
+        "eksploatacja urządzeń techniki komputerowej",
+        "eksploatacja lokalnych sieci komputerowych",
+        "urządzenia techniki komputerowej",
+        "język angielski",
+        "podstawy przedsiębiorczości",
+        "eksploatacja urządzeń techniki komputerowej"
+      ],
+      "3": [
+        null,
+        null,
+        "administracja systemami operacyjnymi",
+        "wychowanie fizyczne",
+        "matematyka",
+        "fizyka",
+        "jezyk angielski",
+        "jezyk polski",
+        "lokalne sieci komputerowych",
+        "jezyk rosyjski"
+      ],
+      "4": [
+        "jezyk polski",
+        "geografia",
+        "systemy operacyjne",
+        "systemy operacyjne",
+        "historia",
+        "matematyka",
+        "fizyka",
+        "pracownia eksploatacji urządzeń peryferyjnych"
+      ],
+      "5": [
+        null,
+        null,
+        null,
+        "godzina wychowawcza",
+        "geografia",
+        "matematyka",
+        "wychowanie fizyczne",
+        "religia"
+      ]
+    },
+    "wiadomosc": "teraz jest %v (%v) <@178226146377334784>",
+    "webhook": ""
+}
